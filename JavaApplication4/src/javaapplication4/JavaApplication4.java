@@ -16,7 +16,7 @@ public class JavaApplication4 {
      */
     public static void main(String[] args) {
         
-        System.out.println("HOLA MUNDO OTRA VEZ");
+        System.out.println("HOLA MUNDO OTRA VEZ y otra vez");
     }
     
 }
